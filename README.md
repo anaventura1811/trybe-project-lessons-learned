@@ -2,6 +2,9 @@
 
 Projeto desenvolvido como requisito parcial para a conclusão do módulo de Fundamentos do Desenvolvimento Web do curso de Desenvolvimento Web da Trybe. Neste projeto, foi desenvolvido um site que contém uma série de informações sobre os meus aprendizados como pessoa estudante da Trybe durante os três primeiros blocos do curso. O objetivo era utilizar **HTML semântico** e **CSS** para posicionamento correto dos elementos na página e estilização, seguindo as melhores práticas no uso de HTML semântico para maior **acessibilidade** e **ranqueamento do site**.
 
+<img width="1366" alt="Captura de Tela 2024-10-12 às 19 07 35" src="https://github.com/user-attachments/assets/f1acc2e9-7108-4780-b63d-b50b4db11ebc">
+
+
 ---
 
 ## SUMÁRIO
